@@ -1,0 +1,18 @@
+in Client: id : 3| type:  0| time: 1333077450548| startTime: 1333077445931
+in Client: id : 6| type:  1| time: 1333077450552| startTime: 1333077445931
+in Client: id : 2| type:  0| time: 1333077450555| startTime: 1333077445931
+in Client: id : 5| type:  1| time: 1333077450558| startTime: 1333077445931
+in Client: id : 4| type:  0| time: 1333077450576| startTime: 1333077445931
+in Client: id : 1| type:  0| time: 1333077450605| startTime: 1333077445931
+in Client: id : 8| type:  1| time: 1333077451778| startTime: 1333077445931
+in Clientjava.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.io.EOFException
+in Client: id : 6| type:  1| time: 1333077948735| startTime: 1333077944072
+in Client: id : 3| type:  0| time: 1333077948747| startTime: 1333077944072
+in Client: id : 5| type:  1| time: 1333077948755| startTime: 1333077944072
+in Client: id : 7| type:  1| time: 1333077948768| startTime: 1333077944072
+in Client: id : 4| type:  0| time: 1333077948769| startTime: 1333077944072
+in Client: id : 1| type:  0| time: 1333077948787| startTime: 1333077944072
+in Client: id : 8| type:  1| time: 1333077950078| startTime: 1333077944072
+in Clientjava.rmi.UnmarshalException: Error unmarshaling return header; nested exception is: 
+	java.io.EOFException

@@ -1,0 +1,9 @@
+Java Remote Method Invocation project:(read project 3.pdf)
+
+to Compile and Run:
+==================
+javac -souce 1.6 -target 1.6 *.java
+java Start
+
+
+
